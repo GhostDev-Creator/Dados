@@ -4,8 +4,8 @@
     "timeUTC": "14h",
     "precipitation_mm": 0,
     "humidity_percent": 48,
-    "pressure_hPa": 927,9,
-    "windSpeed_mps": 0,7,
+    "pressure_hPa": 927.9,
+    "windSpeed_mps": 0.7,
     "temperature_now_C": 26.1,
     "temperature_max_C": 27.2,
     "temperature_min_C": 25.2
@@ -15,8 +15,8 @@
     "timeUTC": "14h",
     "precipitation_mm": 0,
     "humidity_percent": 60,
-    "pressure_hPa": 926,2,
-    "windSpeed_mps": 1,9,
+    "pressure_hPa": 926.2,
+    "windSpeed_mps": 1.9,
     "temperature_now_C": 26.1,
     "temperature_max_C": 27.2,
     "temperature_min_C": 25.2
@@ -26,8 +26,8 @@
     "timeUTC": "14h",
     "precipitation_mm": 5.2,
     "humidity_percent": 32,
-    "pressure_hPa": 924,0,
-    "windSpeed_mps": 2,3,
+    "pressure_hPa": 924.0,
+    "windSpeed_mps": 2.3,
     "temperature_now_C": 25.5,
     "temperature_max_C": 28.0,
     "temperature_min_C": 22.4
