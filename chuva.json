@@ -21,7 +21,7 @@
     "temperature_now_C": 26.1,
     "temperature_max_C": 27.2,
     "temperature_min_C": 25.2,
-    "radiation_wm2": 1675,50
+    "radiation_wm2": 1675.50
   },
   {
     "date": "30/06/2025",
@@ -33,6 +33,6 @@
     "temperature_now_C": 25.5,
     "temperature_max_C": 28.0,
     "temperature_min_C": 22.4,
-    "radiation_wm2": 2145,40
+    "radiation_wm2": 2145.40
   }
 ]
