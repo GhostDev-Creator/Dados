@@ -8,7 +8,8 @@
     "windSpeed_mps": 0.7,
     "temperature_now_C": 26.1,
     "temperature_max_C": 27.2,
-    "temperature_min_C": 25.2
+    "temperature_min_C": 25.2,
+    "radiation_wm2": 2083.30
   },
   {
     "date": "01/07/2025",
@@ -19,7 +20,8 @@
     "windSpeed_mps": 1.9,
     "temperature_now_C": 26.1,
     "temperature_max_C": 27.2,
-    "temperature_min_C": 25.2
+    "temperature_min_C": 25.2,
+    "radiation_wm2": 1675,50
   },
   {
     "date": "30/06/2025",
@@ -30,6 +32,7 @@
     "windSpeed_mps": 2.3,
     "temperature_now_C": 25.5,
     "temperature_max_C": 28.0,
-    "temperature_min_C": 22.4
+    "temperature_min_C": 22.4,
+    "radiation_wm2": 2145,40
   }
 ]
