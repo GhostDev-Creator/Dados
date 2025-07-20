@@ -1,9 +1,19 @@
 [
   {
+    "date": "16/07/2025",
+    "ph": 6,
+    "color": 232,
+    "turbidity": 29,
+    "st": -158.42,
+    "stv": 0.044,
+    "stf": 0.00005,
+    "temperature": 20.5
+  },
+  {
     "date": "04/06/2025",
     "ph": 6,
-    "color": 662,
-    "turbidity": 107,
+    "color": 504,
+    "turbidity": 54,
     "st": 0.08,
     "stv": 0.0453,
     "stf": 0.00005,
